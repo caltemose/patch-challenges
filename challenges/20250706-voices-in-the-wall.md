@@ -55,4 +55,25 @@ The soundscape should be reactive, textural, and **never fully intelligible**, b
 
 ## 🎛️ Performance Interaction Suggestions
 
-- Manually modulate **Gene Size** or **Varispeed** du
+- Manually modulate **Gene Size** or **Varispeed** during scene shifts
+- Morphagene becomes a *tape instrument* — play it slowly, unpredictably
+- Change IIA behavior with parameter gestures or slow CV modulation
+- Use FX modulation to smear or clarify certain moments
+
+---
+
+## 🎧 Sonic Goals
+
+- **Looped fragments** of speech-like material that never fully resolve
+- **Glassy, unstable FM tones** from Incus, like corrupted machine signals
+- FX environments that feel **broken or distant** — not lush
+- Dynamic movement, but not musical — more like haunted architecture
+
+---
+
+## 📝 Reflection Prompts
+
+- Did any part of the patch feel “alive” or “reactive”?
+- How clearly could you control the boundary between noise and intelligibility?
+- Which modulations gave the most satisfying results?
+- What would you change to make this more playable — or more haunting?
