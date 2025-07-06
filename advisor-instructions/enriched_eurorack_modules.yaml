@@ -1,0 +1,257 @@
+- Name: Arcus Audio 1U Dual LIN/EXP VCA
+  Type: 1U Dual VCA with selectable linear or exponential response.
+  Features: Voltage-controlled amplifier, selectable linear or exponential response
+  Use Cases: Amplitude shaping for audio or CV signals, ducking, modulation control
+  Rack: Intellijel Performance Case
+- Name: Intellijel Quadratt 1U
+  Type: quad attenuator, attenuverter, mixer and DC voltage source
+  Features: Mixes and scales CV or audio signals; often includes offset or inversion
+  Use Cases: CV scaling, CV mixing, audio mixing, modulation routing
+  Rack: Intellijel Performance Case
+- Name: After Later Audio Flip
+  Type: 1U version of Mutable Instruments Branches
+  Features: Bernoulli gate, CV control over probability
+  Use Cases: Controlling probability of gate and trigger signals
+  Rack: Intellijel Performance Case
+- Name: Plum Audio MIX (Black Panel)
+  Type: Unity Mixer / Precision Adder / Average Mixer
+  Features: Mixes and scales CV or audio signals
+  Use Cases: CV scaling, CV and audio mixing, modulation routing
+  Rack: Intellijel Performance Case
+- Name: Crey Emporium Buzzrito
+  Type: An oscillator presiding over 16 sawtooth oscillators, a sub oscillator, and
+    a peaky comb-filter
+  Features: Voltage-controlled oscillator; Primary audio or control voltage source; may include multiple waveforms; touch interface or CV-inputs control modulation of waveforms
+  Use Cases: Sound generation, drone creation, melodic content
+  Rack: Intellijel Performance Case
+- Name: Crey Emporium Bib
+  Type: Multi-fx module 
+  Features: Overdrive or wavefolding, echo/delay, reverb and mix control
+  Use Cases: Adding any combination of the effects listed in this module's features to audio signals
+  Rack: 3d-printed case
+- Name: Intellijel Steppy 1U
+  Type: 4 x 64 Gate Sequencer
+  Features: Sequencing of up to 4 channels, each of which can have a maximum of 64 steps
+  Use Cases: Sequencing triggers or gates for drum patterns; Sequencing note patterns (playing the note, but not sending pitch); Sequencing triggering of envelopes 
+  Rack: Intellijel Performance Case
+- Name: Herzlich Labs Hyperoxia + Hypoxia
+  Type: Passive high-pass filter, low-pass filter and band-pass filter in hybrid 1U/0hp
+    format
+  Features: High-pass, low-pass, or band-pass filter
+  Use Cases: Tone shaping, subtractive synthesis, pinged percussion
+  Rack: this module is used outside of the rack
+- Name: Steady State Fate Zephyr
+  Type: Thru Zero Oscillator
+  Features: Primary audio or control voltage source; includes outputs for the standard set of waveforms (sine, triangle, saw, square/pulse) and a custom zwave output; CV-controllable pulse-width, wave folding, frequency modulation and other timbre-controls
+  Use Cases: Sound generation, drone creation, melodic content
+  Rack: Intellijel Performance Case
+- Name: Plum Audio ADVA 3U
+  Type: Smart Multimode Filter
+  Features: High-pass, low-pass, or band-pass filter; Pre- and Post-signal overdrive; V/oct and FM inputs to control filter cutoff; noise
+  Use Cases: Tone shaping, subtractive synthesis, pinged percussion
+  Rack: Intellijel Performance Case
+- Name: Acid Rain Technology Chainsaw
+  Type: Digital Super-Oscillator
+  Features: Primary audio or control voltage source; sawtooth or square waves can be used or some mixture of the two; 3 v/oct inputs to create note combinations or chords
+  Use Cases: Sound generation, drone creation, melodic content
+  Rack: Intellijel Performance Case
+- Name: Bastl Instruments Ikarie
+  Type: Stereo / dual peak filter
+  Features: High-pass, low-pass, or band-pass filter; can self-oscillate; cv-controllable stereo panning and cutoff modulation; envelope follower 
+  Use Cases: Tone shaping, subtractive synthesis, pinged percussion
+  Rack: Intellijel Performance Case
+- Name: Vult Freak
+  Type: Manifold Filter - All Vult's virtual analog filters in one
+  Features: Stereo or dual-mono filters; Can select among many common types of filters, wave folders, wave distortion, chorus; CV-controllable cutoff, resonance and custom parameters per filter type
+  Use Cases: Tone shaping, subtractive synthesis, pinged percussion
+  Rack: Intellijel Performance Case
+- Name: Modbap Modular Osiris
+  Type: Bi-Fidelity Wavetable Oscillator
+  Features: Primary audio or control voltage source; includes 4 user-selected wave tables
+  Use Cases: Sound generation, drone creation, melodic content
+  Rack: Rackbrute
+- Name: Qu-Bit Electronix Surface (Silver)
+  Type: Multi-Timbral Physical Modeling Voice
+  Features: Physical modeling sound voice with CV-controllable model selection, strike, tone, decay, v/oct and trigger; Stereo output
+  Use Cases: Can produce one of plucked strings, bells, kicks, snare drums, e-pianos, prepared piano; 
+  Rack: Intellijel Performance Case
+- Name: Noise Engineering Manis Iteritas Alia
+  Type: Gross, gritty, and dark industrial-strength voice on a swappable oscillator
+    platform.
+  Features: Sound voice; can use any of the firmwares of the alia to produce triggered or droning sounds depending on the firmware loaded; Sounds range from pretty and simple synth voices to dirty and industrial bass or lead lines; to highly-modulatable drum and percussive sounds; 
+  Use Cases: Sound generation, FM synthesis, drone creation, melodic content
+  Rack: 3d-printed case
+- Name: Qu-Bit Electronix Stardust
+  Type: Cosmic Tape Looper
+  Features: Record and playback audio loop; Multiple recording modes including sound-on-sound, frippertronics, and replace; Multiple fx including bitcrushing/reduction, tape hiss, noise, reverb, high-pass and low-pass filtering; loop slicing and playback skipping amoung loop slices for glitchy effects
+  Use Cases: Playback of existing loops; live-recording and playback of loops
+  Rack: Rackbrute
+- Name: Mordax DATA (SILVER)
+  Type: Four channel oscilloscope, Spectrum analyzer, Spectrograph, Tuner, Dual waveform
+    generator, Clock source/div/mult, and more
+  Features: Can analyze a maximum of 4 signals; Visualize waveform shapes; tuner for audio signals; visualize voltage levels for signals; spectrum analyzer
+  Use Cases: Primarily for visualizing signals to understand them and troubleshoot signal issues
+  Rack: 4ms Pod 40
+- Name: Herzlich Labs Man-Machine Interface MMI
+  Type: Pressure and Touch Sensitive Controller
+  Features: Combine and mix 2 incoming signals (cv, audio, triggers/gates) using a touch interface
+  Use Cases: Modulate between and/or mix two signals using a touch strip
+  Rack: 4ms Pod 40
+- Name: Intellijel Sealegs
+  Type: Multi-Model Stereo Character Delay with Reverb
+  Features: Effects unit focused on reverb and delay with CV-controllable modulation of delay times, delay feedback, modulation rate and depth and color; envelope follower; user-selectable modulation waveshapes among common or random wave shapes; can select between 3 delay types of tape, bucket brigade and digital
+  Use Cases: Add delay and/or reverb and/or overdrive to incoming signals
+  Rack: 3d-printed case
+- Name: Noise Engineering Electus Versio
+  Type: Clocked reverb tail-generator
+  Features: Effects unit providing reverb tails to incoming sounds; Reverb fx can be clocked; This module can run multiple effects firmwares available in the Noise Engineering Versio platform
+  Use Cases: Adding simple or weird reverb effects to signals
+  Rack: Intellijel Performance Case
+- Name: Happy Nerding FX AID XL
+  Type: Multiple audio effects
+  Features: Processes audio with one of many different effect types including delay, reverb, compression, filtering, grainular synthesis
+  Use Cases: Spatial effects, rhythmic echo, texture and timbre shaping
+  Rack: Intellijel Performance Case
+- Name: ALM Busy Circuits Pamela's PRO Workout
+  Type: Clock and modulation generator
+  Features: 8 outputs for Programmable clock, LFO, random CV; Can use euclidean patterns
+  Use Cases: Clock division, modulation sequencing
+  Rack: Intellijel Performance Case
+- Name: ALM Busy Circuits PPEXP1
+  Type: PPEXP1 is an expander module for Pamela’s PRO Workout that offers additional
+    dedicated fixed clock, common clock divisions, Din Sync & MIDI clock outputs.
+  Features: Programmable clock, LFO, or random CV generator
+  Use Cases: Clock division, modulation sequencing
+  Rack: Intellijel Performance Case
+- Name: Clank Chaos
+  Type: Six channel aleatoric brain, CV sequencer
+  Features: Sequence up to 6 channels with CV and gate output; Quantize CV out to common scales; Creates random CV sequences that can be looped (cv-controllable), quantized, constrained to small or large pitch windows which can be shifted up or down; control probability of individual cv/gate events from 0 to 100%; 
+  Use Cases: Provide pitch sequences for voices; Provide CV for modulation; Provide gate sequences
+  Rack: 3d-printed case
+- Name: Stochastic Instruments Stochastic Inspiration Generator
+  Type: Performable Stochastic Melody Generator
+  Features: Sequencer with piano-keyboard style input to select which notes are played and the probability that they will be played; Parameters other than clock input cannot be cv-controlled; Can combine gate durations ranging from 1/16 note to a double whole note via trim pots; can control probability of gates playing, probability of envelope attack and decay time differences to modulate these values; Can create up to 4 sequences each with a cv out and gate out; Can capture loops and toggle them on and off
+  Use Cases: Pitch sequence generation; CV modulation generation
+  Rack: Rackbrute
+- Name: Stochastic Instruments Stochastic Inspiration Generator 4 Track Expander
+  Type: 4 Track Expander for the Performable Stochastic Melody Generator
+  Features: This module provides the voltage outputs for the previous module
+  Use Cases: Same as previous module
+  Rack: Rackbrute
+- Name: Acid Rain Technology Constellation
+  Type: Parametric Rhythm Generator
+  Features: Euclidean trigger and gate sequencer with complex possibilities using multiple euclidean patterns per channel
+  Use Cases: Sequencing triggers or gates for drum patterns; Sequencing note patterns (playing the note, but not sending pitch); Sequencing triggering of envelopes
+  Rack: Intellijel Performance Case
+- Name: 1010 Music Bitbox Micro
+  Type: Compact Sampling Module
+  Features: Sample playback of up to 8 individual channels; multi-sample playback (round robin technique) for individual channels
+  Use Cases: Drum playback; Adding color via field recordings; Sampled instrument playback;
+  Rack: Intellijel Performance Case
+- Name: Noise Engineering Vice Virga
+  Type: 8-input, 8-output sequential/addressable switch with manual, trigger, and
+    CV control, plus three grouping options, multiple switching directions, and randomization.
+  Features: Signal switching utility with modes for switching 1 set of 8 ins and outs, 2 sets of 4 ins and outs or 4 sets of 2 ins and outs
+  Use Cases: Switch between trigger and pitch sequences manually or via CV; Switch between modulation sequences
+  Rack: Rackbrute
+- Name: Acid Rain Technology Maestro
+  Type: Clocked Modulation Controller
+  Features: Programmable clock, LFO, or random CV generator
+  Use Cases: Clock division, modulation sequencing 
+  Rack: Rackbrute
+- Name: Big T Music Shifty
+  Type: Voltage Doubler and Shifter
+  Features: Double a voltage signal (i.e. to double 0-5v to 0-10v), voltage shifter (i.e. to shift 0-5v to -5v to 5v)
+  Use Cases: Increase cv strength for a modulation input requiring a 10v range; shift cv from unipolar to bi-polar for modulation inputs where modulation needs to occur positively and negatively around a fixed value
+  Rack: Rackbrute
+- Name: Soundmachines LS1lightstrip
+  Type: Capacitive technology slider
+  Features: Produces gates and cv using a touch strip control surface; can record 8 seconds of touch modulation to produce motion via cv for modulation inputs of other modules
+  Use Cases: Provide a touch-controllable voltage offset for modulation
+  Rack: Intellijel Performance Case
+- Name: DivKid RND STEP
+  Type: 6 unique Sample and Hold voltages across 3 channels in 4HP!
+  Features: 3 sets of Sample and hold inputs and outputs
+  Use Cases: Sample and hold an incoming signal using an incoming trigger input; trigger modulation voltage that stays low most of the time with occassional bursts of medium voltage to add accents to a modulation source
+  Rack: Intellijel Performance Case
+- Name: Befaco Atte
+  Type: Quad Attenuator/Inverter, Splitter, and Offset Generator
+  Features: Mixes and scales CV or audio signals; can offset or invert signals
+  Use Cases: CV scaling, audio mixing, modulation routing
+  Rack: 3d-printed case
+- Name: DivKid ochd expander
+  Type: Expander with 16 additional outputs across 4 new functions for ochd (the next module in this list)
+  Features: Rectified wave signals, random triggers, random cv
+  Use Cases: Modulation source of smooth, stepped, and random cv; Trigger generator based on ochd LFOs
+  Rack: Intellijel Performance Case
+- Name: DivKid ochd
+  Type: 8 analogue LFOs in 4hp.
+  Features: Triangle LFO source; can have the rate across all LFOs modulated by hand or CV
+  Use Cases: Anytime modulation is needed
+  Rack: Intellijel Performance Case
+- Name: Make Noise MultiMod
+  Type: Modulation source or audio manipulation source
+  Features: Provides 8 related channels of a variety of selectable LFO types (ramp up and down, sine, triangle, random smooth and random stepped); Optional input to provide custom wave shapes or to provide an audio signal that can be copied and divided among the 8 outputs with modulatable phase and playback timing
+  Use Cases: When related modulation sources are needed; phase and delay effects of audio signals;
+  Rack: Intellijel Performance Case
+- Name: Xaoc Devices Zadar
+  Type: 1973 Quadruple Envelope Generator
+  Features: Generates control voltage custom shapes that are selectable from a large library of shapes; envelopes can be triggered or loop continuously; individual envelope warping, cycle time, shape, level and phase can be modulated with incoming CV
+  Use Cases: Envelope shaping, modulation source, clocking
+  Rack: Rackbrute
+- Name: Squarp Instruments Hermod+
+  Type: Advanced sequencer & interface for your modular rack. Perfect for composition and
+    live performances.
+  Features: Many features similar to a digital audio workstation including sequencing of pitch, gates, modulation; think of this as a complex brain that can control many voices or other modules; Midi input and output
+  Use Cases: Create patterns of sequences for pitch/gate or modulation (or both) that can be chained together or played individually
+  Rack: Intellijel Performance Case
+- Name: Stochastic Instruments Strange-R BigHat
+  Type: Music-theory Aware Melodic Contour Sequencer and Quantizer
+  Features: Sequencer with a single cv/gate output; can control manually or via CV sequence pitch width, pitch center, likelihood of pitch jumping up or down and how much; Can define the note set used by the quantizer; Can modulate the selection of notes using semitone transposition, modal rotation or shifting around the circle of 5ths
+  Use Cases: Create pitch sequences for leads, basses, drones or any voices; especially useful when modal rotation or shifting around the circle of 5ths is desired
+  Rack: Rackbrute
+- Name: Shakmat Bard Quartet
+  Type: Programmable quad quantizer
+  Features: Quantize as many as 4 signals; Quantize on note change or using sample & hold with an incoming trigger; Can use CV or a knob to switch between harmonies which are presets for different quantizer scales/patterns; Transpose input to shift a quantizer pattern by semitone
+  Use Cases: When quantization of incoming signals is needed; Can be used with multiple voices to synchronize note patterns across voices
+  Rack: Intellijel Performance Case
+- Name: Michigan Synth Works F8R
+  Type: Fader Bank with CV, I2C, and MIDI
+  Features: 8 Fader-controlled outputs with 3 selectable ranges of 0-5v, 0-10v and bipolar -5 to +5v
+  Use Cases: Make modulation playable via comfortable fader controls; Provide a constant offset value; many diverse uses
+  Rack: Intellijel Performance Case
+- Name: DivKid Mutes
+  Type: Performance focussed multi channel mute.
+  Features: Individually mute up to 4 signals
+  Use Cases: Mute trigger or gate signals; mute modulation signals; mute pitch signals
+  Rack: Intellijel Performance Case
+- Name: Herzlich Labs SFXI
+  Type: Stereo FX Integrator
+  Features: Return/send capabilities for external gear (drum machines, guitar pedals, synths, etc) with weaker line level signals. This module brings line level signals up to modular and reduces modular signals down to line level.
+  Use Cases: Integrating an external drum machine or synth into modular; Integration bass guitar into modular via guitar pedals; using guitar pedals as return/send effects for modular signals
+  Rack: 4ms Pod 40
+- Name: Befaco Instrument Interface v2
+  Type: Audio pre amp with envelope follower.
+  Features: Integrate external audio signals (microphone, bass guitar, radio, etc) into the modular signal path. Brings external signals up from low levels to higher modular levels. Envelope follower for incoming audio signal.
+  Use Cases: integrating bass into modular audio signal path; integrating microphone input into modular signal path; integrating audio file player and radio into modular signal path
+  Rack: 4ms Pod 40
+- Name: Behringer FOUR PLAY
+  Type: Clone of Intellijel Quad VCA
+  Features: Voltage-controlled amplifier, linear or exponential response; optionally mix incoming signals
+  Use Cases: Amplitude shaping for audio or CV signals, ducking, modulation control
+  Rack: Rackbrute
+- Name: Behringer Abacus
+  Type: Clone of MakeNoise Maths
+  Features: Two Envelope generators that can be looped or triggered; 2 channels for attenuating via offset voltage or an incoming CV signal
+  Use Cases: A great many use cases including simple ones like triggering an envelope to control voice amplification or modulation of voice properties/timbres to more complex cases such as mixing and mangling a signal; source of primary envelope for a krell patch
+  Rack: Rackbrute
+- Name: Happy Nerding 4x Stereo Mix
+  Type: quad stereo mixer
+  Features: Mixes and scales CV or audio signals; often includes offset or inversion
+  Use Cases: CV scaling, audio mixing, modulation routing
+  Rack: 3d-printed case
+- Name: 1010 Music bluebox
+  Type: Digital Mixer and Recorder
+  Features: Mixer with 6 pairs of inputs that can be used as stereo pairs or individual mono inputs; 1 stereo send pair of outputs for which the return signal must use one of the available 6 pairs of inputs as the return; can multi-track record the inputs as well as the mix
+  Use Cases: Standard mixing duties;
+  Rack: Intellijel Performance Case
