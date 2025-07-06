@@ -20,10 +20,15 @@ The soundscape should be reactive, textural, and **never fully intelligible**, b
 
 ### **Incus Iteritas Alia (IIA)**
 - Set up short, unpredictable FM-rich bursts or glitch tones
-- Use CV to modulate **Timbre**, **FM Index**, and **Pitch** from Chaos and Atte
+- Use CV to modulate:
+  - **Weight** — harmonic density
+  - **Alloy** — algorithm selection/metallic quality
+  - **Shape** — waveform skew
+  - **Temper** — brightness or noise content
+  - **Attack** and **Time** — control voice envelope shape
 - Trigger with looping gates from Chaos or Morphagene EOSG
-- Adjust parameters so that IIA cuts in and out of texture like a corrupted response voice
-- Optionally post-process with **Sealegs** for spatial smearing or warble
+- Adjust parameters so that IIA cuts in and out like a corrupted response voice
+- Optionally post-process with **Sealegs** for spatial smear or warble
 
 ---
 
@@ -31,7 +36,7 @@ The soundscape should be reactive, textural, and **never fully intelligible**, b
 
 | Source                  | Destination                    | Notes |
 |-------------------------|--------------------------------|-------|
-| **Chaos**               | Organize, pitch, CV gates      | Use looping CVs on 2–3 channels, some synced, some not |
+| **Chaos**               | Organize, IIA parameters, gate | Use looping CVs on 2–3 channels, some synced, some not |
 | **IIA envelope out**    | Sealegs or Bib CV inputs       | Shape FX dynamics based on tone presence |
 | **Sealegs Aux (env follower)** | Chaos transpose or Bib mix | Drive structure from output intensity |
 | **Atte**                | CV shaping (offset/invert)     | Adjust CV ranges for nuance |
@@ -50,25 +55,4 @@ The soundscape should be reactive, textural, and **never fully intelligible**, b
 
 ## 🎛️ Performance Interaction Suggestions
 
-- Manually modulate **Gene Size** or **Varispeed** during scene shifts
-- Morphagene becomes a *tape instrument* — play it slowly, unpredictably
-- Change IIA behavior with slow gate alternation or parameter shifts
-- Use FX modulation to smear or clarify certain moments
-
----
-
-## 🎧 Sonic Goals
-
-- **Looped fragments** of speech-like material that never fully resolve
-- **Glassy, unstable FM tones** from Incus, like corrupted machine signals
-- FX environments that feel **broken or distant** — not lush
-- Dynamic movement, but not musical — more like haunted architecture
-
----
-
-## 📝 Reflection Prompts
-
-- Did any part of the patch feel “alive” or “reactive”?
-- How clearly could you control the boundary between noise and intelligibility?
-- Which modulations gave the most satisfying results?
-- What would you change to make this more playable — or more haunting?
+- Manually modulate **Gene Size** or **Varispeed** du
