@@ -88,3 +88,8 @@ The machine wakes, remembers, and mutates. You’ll use **self-patching**, **cha
 - Use consistent slice lengths in Morphagene for more controlled EOSG clocking
 - Add Ōchd to the 3D-printed case (fits in side 4hp space) to stay within constraint
 - Consider more defined performative controls for transitions (e.g., manual gate muting or scene switches)
+
+
+## Debrief
+
+[Debrief notes](./20250703-small-case-debrief.md)

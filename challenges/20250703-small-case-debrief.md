@@ -2,6 +2,8 @@
 
 ## My Notes
 
+Recording of patch: [https://whyp.it/tracks/294923/flesh-n-circuits-patch-challenge](https://whyp.it/tracks/294923/flesh-n-circuits-patch-challenge)
+
 Here are notes about the patch I built given the Flesh + Circuits challenge. 
 
 Some highlights of my execution:
