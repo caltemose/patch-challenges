@@ -2,7 +2,7 @@
 
 ## My Notes
 
-Recording of this patch is here: [https://whyp.it/tracks/294954/voices-in-the-wall-patch-challenge](https://whyp.it/tracks/294954/voices-in-the-wall-patch-challenge)
+Recording of this patch is here: [https://whyp.it/tracks/294954/voices-in-the-wall-patch-challenge?token=dwjVO](https://whyp.it/tracks/294954/voices-in-the-wall-patch-challenge?token=dwjVO)
 
 This patch was fun to mess around with although it's hard to say that it felt like playing in a prescribed or deliberate manner. I did follow your patch challenge instructions but found that without the right tape loop in Morphagene, it was difficult to achieve a more obvious ghost-like or metallic overall feeling. 
 
