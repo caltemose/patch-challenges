@@ -2,6 +2,8 @@
 
 ## My Notes
 
+Recording of this patch is here: [https://whyp.it/tracks/294954/voices-in-the-wall-patch-challenge](https://whyp.it/tracks/294954/voices-in-the-wall-patch-challenge)
+
 This patch was fun to mess around with although it's hard to say that it felt like playing in a prescribed or deliberate manner. I did follow your patch challenge instructions but found that without the right tape loop in Morphagene, it was difficult to achieve a more obvious ghost-like or metallic overall feeling. 
 
 I played this in two stages. First was using the street festival sample. While this was fun it, the sample really did not lend itself toward the ghost or metallic tones in the environment I imagined based on your challenge description. It didn't feel particularly haunted or dark.
